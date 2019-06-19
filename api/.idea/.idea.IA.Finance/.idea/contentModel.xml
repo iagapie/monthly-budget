@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_IA.Finance.-666743749.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="IA.Finance.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="IA.Finance.Api" t="IncludeRecursive">
+          <e p="app.config" t="Include" />
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="GraphQL" t="Include">
+            <e p="AppMutation.cs" t="Include" />
+            <e p="AppQuery.cs" t="Include" />
+            <e p="AppSchema.cs" t="Include" />
+            <e p="Authorization" t="Include">
+              <e p="UserContext.cs" t="Include" />
+            </e>
+            <e p="Resolvers" t="Include">
+              <e p="AResolver.cs" t="Include" />
+              <e p="IResolver.cs" t="Include" />
+              <e p="Movement" t="Include">
+                <e p="CreateMovementItemResolver.cs" t="Include" />
+                <e p="CreateMovementResolver.cs" t="Include" />
+                <e p="MovementsResolver.cs" t="Include" />
+                <e p="RemoveMovementItemResolver.cs" t="Include" />
+                <e p="RemoveMovementResolver.cs" t="Include" />
+                <e p="UpdateMovementItemResolver.cs" t="Include" />
+                <e p="UpdateMovementResolver.cs" t="Include" />
+              </e>
+              <e p="Project" t="Include">
+                <e p="CreateProjectResolver.cs" t="Include" />
+                <e p="ProjectResolver.cs" t="Include" />
+                <e p="ProjectsResolver.cs" t="Include" />
+                <e p="RemoveProjectResolver.cs" t="Include" />
+                <e p="UpdateProjectResolver.cs" t="Include" />
+              </e>
+              <e p="ResolverException.cs" t="Include" />
+              <e p="User" t="Include">
+                <e p="ChangePasswordResolver.cs" t="Include" />
+                <e p="CreateUserResolver.cs" t="Include" />
+                <e p="UpdateUserResolver.cs" t="Include" />
+                <e p="UserResolver.cs" t="Include" />
+                <e p="UsersResolver.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Types" t="Include">
+              <e p="DirectionInputType.cs" t="Include" />
+              <e p="DirectionType.cs" t="Include" />
+              <e p="MovementInputType.cs" t="Include" />
+              <e p="MovementItemInputType.cs" t="Include" />
+              <e p="MovementItemType.cs" t="Include" />
+              <e p="MovementType.cs" t="Include" />
+              <e p="ProjectInputType.cs" t="Include" />
+              <e p="ProjectType.cs" t="Include" />
+              <e p="UserInputType.cs" t="Include" />
+              <e p="UserType.cs" t="Include" />
+            </e>
+          </e>
+          <e p="IA.Finance.Api.csproj" t="IncludeRecursive" />
+          <e p="Identity" t="Include">
+            <e p="AppIdentityDbContext.cs" t="Include" />
+            <e p="AppIdentityDbContextFactory.cs" t="Include" />
+            <e p="AuthSettings.cs" t="Include" />
+          </e>
+          <e p="Jwt" t="Include">
+            <e p="IJwtFactory.cs" t="Include" />
+            <e p="IJwtTokenHandler.cs" t="Include" />
+            <e p="IJwtTokenValidator.cs" t="Include" />
+            <e p="ITokenFactory.cs" t="Include" />
+            <e p="JwtFactory.cs" t="Include" />
+            <e p="JwtIssuerOptions.cs" t="Include" />
+            <e p="JwtTokenHandler.cs" t="Include" />
+            <e p="JwtTokenValidator.cs" t="Include" />
+            <e p="TokenFactory.cs" t="Include" />
+          </e>
+          <e p="Middlewares" t="Include">
+            <e p="AMiddleware.cs" t="Include" />
+            <e p="LoginMiddleware.cs" t="Include" />
+            <e p="RefreshTokenMiddleware.cs" t="Include" />
+          </e>
+          <e p="Migrations" t="Include">
+            <e p="20190617185652_InitialIdentity.cs" t="Include" />
+            <e p="20190617185652_InitialIdentity.Designer.cs" t="Include" />
+            <e p="App" t="Include">
+              <e p="20190618001428_InitialFinance.cs" t="Include" />
+              <e p="20190618001428_InitialFinance.Designer.cs" t="Include" />
+              <e p="FinanceContextModelSnapshot.cs" t="Include" />
+            </e>
+            <e p="AppIdentityDbContextModelSnapshot.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="DirectionDto.cs" t="Include" />
+            <e p="MovementDto.cs" t="Include" />
+            <e p="MovementItemDto.cs" t="Include" />
+            <e p="ProjectDto.cs" t="Include" />
+            <e p="UserDto.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="IA.Finance.Api.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="IA.Finance.Domain" t="IncludeRecursive">
+          <e p="AggregatesModel" t="Include">
+            <e p="MovementAggregate" t="Include">
+              <e p="Direction.cs" t="Include" />
+              <e p="IMovementRepository.cs" t="Include" />
+              <e p="Movement.cs" t="Include" />
+              <e p="MovementItem.cs" t="Include" />
+            </e>
+            <e p="ProjectAggregate" t="Include">
+              <e p="IProjectRepository.cs" t="Include" />
+              <e p="Project.cs" t="Include" />
+            </e>
+            <e p="UserAggregate" t="Include">
+              <e p="IUserRepository.cs" t="Include" />
+              <e p="RefreshToken.cs" t="Include" />
+              <e p="User.cs" t="Include" />
+            </e>
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Exceptions" t="Include">
+            <e p="FinanceDomainException.cs" t="Include" />
+          </e>
+          <e p="IA.Finance.Domain.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="IA.Finance.Domain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SeedWork" t="Include">
+            <e p="Entity.cs" t="Include" />
+            <e p="Enumeration.cs" t="Include" />
+            <e p="IAggregateRoot.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+            <e p="ValueObject.cs" t="Include" />
+          </e>
+        </e>
+        <e p="IA.Finance.Infrastructure" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="EntityConfigurations" t="Include">
+            <e p="DirectionEntityTypeConfiguration.cs" t="Include" />
+            <e p="MovementEntityTypeConfiguration.cs" t="Include" />
+            <e p="MovementItemEntityTypeConfiguration.cs" t="Include" />
+            <e p="ProjectEntityTypeConfiguration.cs" t="Include" />
+            <e p="RefreshTokenEntityTypeConfiguration.cs" t="Include" />
+            <e p="UserEntityTypeConfiguration.cs" t="Include" />
+          </e>
+          <e p="FinanceContext.cs" t="Include" />
+          <e p="IA.Finance.Infrastructure.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="IA.Finance.Infrastructure.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="MovementRepository.cs" t="Include" />
+            <e p="ProjectRepository.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

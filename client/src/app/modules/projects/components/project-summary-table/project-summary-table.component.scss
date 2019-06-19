@@ -1,0 +1,130 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+.total-title {
+  font-size: $size-5;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+  color: $app-blue-dark-color;
+  margin-bottom: 1em;
+}
+
+.total-stats {
+  .column {
+    align-self: center;
+    padding-top: 0;
+    padding-bottom: .25rem;
+  }
+}
+
+.total-label,
+.total-price {
+  font-size: $size-6;
+  font-weight: $weight-semibold;
+  line-height: 1.125;
+  color: $app-gray-color;
+}
+
+.total-price {
+  text-align: right;
+}
+
+.total-progress {
+  padding-left: 0;
+
+  progress {
+    &::-webkit-progress-bar {
+      background: none;
+    }
+
+    background: none;
+    height: 1.25rem;
+    border-radius: 0;
+  }
+
+  .total-progress-planned {
+    &::-webkit-progress-value {
+      background-color: $app-gray-light-color
+    }
+
+    &::-moz-progress-bar {
+      background-color: $app-gray-light-color
+    }
+
+    &::-ms-fill {
+      background-color: $app-gray-light-color
+    }
+  }
+
+  .total-progress-actual {
+    &::-webkit-progress-value {
+      background-color: $app-blue-dark-color
+    }
+
+    &::-moz-progress-bar {
+      background-color: $app-blue-dark-color
+    }
+
+    &::-ms-fill {
+      background-color: $app-blue-dark-color
+    }
+  }
+}
+
+.table {
+  thead {
+    tr {
+      th {
+        text-align: right;
+        border-bottom: 1px solid #222;
+        vertical-align: bottom;
+
+        span {
+          font-weight: $weight-medium;
+          color: $app-gray-color;
+          display: block;
+
+          &.p {
+            color: $app-positive-color!important;
+          }
+
+          &.n {
+            color: $app-negative-color!important;
+          }
+        }
+
+        &:first-child {
+          width: 100%;
+          text-align: left;
+        }
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        &:nth-child(1),
+        &:nth-child(2) {
+          background: $app-background-row-color;
+          border-right: .1em solid #fff;
+          border-bottom: .1em solid #fff;
+        }
+
+        &:last-child {
+          color: $app-gray-color;
+        }
+
+        input {
+          text-align: right;
+        }
+
+        &:first-child {
+          input {
+            text-align: left;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<div class="modal" [class.is-active]="isActive">
+  <div class="modal-background" (click)="close()"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <h2 class="modal-card-title" translate>DeleteModal.Delete</h2>
+    </header>
+    <section class="modal-card-body">
+      <p>{{ message | translate }}</p>
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button is-text" (click)="close()" translate>DeleteModal.Cancel</button>
+      <button class="button is-app-danger" (click)="delete()" translate>DeleteModal.Delete</button>
+    </footer>
+  </div>
+</div>

@@ -1,0 +1,8 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+:host {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}

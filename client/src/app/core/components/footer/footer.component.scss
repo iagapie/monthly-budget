@@ -1,0 +1,13 @@
+:host {
+  margin-top: auto;
+}
+
+.footer {
+  padding: 2rem 1.5rem 3rem;
+
+  .is-pulled-right {
+    span {
+      cursor: pointer;
+    }
+  }
+}

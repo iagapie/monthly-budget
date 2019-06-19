@@ -1,0 +1,42 @@
+<h2 class="table-title">{{ title | translate }}</h2>
+<table class="table is-fullwidth is-narrow">
+  <thead>
+  <tr>
+    <th translate>Projects.Transactions.Date</th>
+    <th translate>Projects.Transactions.Amount</th>
+    <th translate>Projects.Transactions.Category</th>
+    <th colspan="2" translate>Projects.Transactions.Description</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let mi of movementItems" app-project-transactions-table-row (updateEvent)="update($event)" (removeEvent)="remove($event)" [categories]="categories" [project]="project" [movementName]="mi.movement" [movementItem]="mi.item"></tr>
+    <tr>
+      <td>
+        <input [formControl]="dateControl" [class.is-danger]="dateControl.invalid && dateControl.touched" name="date" class="input" type="text" placeholder="{{ dateFormat }}">
+      </td>
+      <td>
+        <input [formControl]="amountControl" [class.is-danger]="amountControl.invalid && amountControl.touched" name="amount" class="input" type="text" placeholder="{{ 'Projects.Transactions.Placeholder.Amount' | translate }}">
+      </td>
+      <td>
+        <div class="select" [class.is-danger]="categoryControl.invalid && categoryControl.touched">
+          <select [formControl]="categoryControl" name="category">
+            <option [value]="category.id" *ngFor="let category of categories">{{ category.name }}</option>
+          </select>
+        </div>
+      </td>
+      <td colspan="2">
+        <input [formControl]="descriptionControl" [class.is-danger]="descriptionControl.invalid && descriptionControl.touched" name="description" class="input" type="text" placeholder="{{ 'Projects.Transactions.Placeholder.Description' | translate }}">
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="5">
+        <div class="buttons are-small is-centered">
+          <button class="button is-text" (click)="reset()" translate>Projects.Transactions.Reset</button>
+          <button class="button is-text" (click)="add()" translate>Projects.Transactions.Add</button>
+        </div>
+      </td>
+    </tr>
+  </tfoot>
+</table>

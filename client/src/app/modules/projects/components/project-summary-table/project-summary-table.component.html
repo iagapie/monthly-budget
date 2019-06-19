@@ -1,0 +1,75 @@
+<h3 class="total-title">{{ title | translate }}</h3>
+<div class="columns total-stats is-flex-mobile">
+  <div class="column total-label is-3" translate>Projects.Summary.Planned</div>
+  <div class="column total-price is-3">
+    <app-currency [code]="project.currency" [amount]="planned"></app-currency>
+  </div>
+  <div class="column total-progress is-6 is-hidden-mobile">
+    <progress class="progress total-progress-planned" [value]="planned" [max]="max"></progress>
+  </div>
+</div>
+<div class="columns total-stats is-flex-mobile">
+  <div class="column total-label is-3" translate>Projects.Summary.Actual</div>
+  <div class="column total-price is-3">
+    <app-currency [code]="project.currency" [amount]="actual"></app-currency>
+  </div>
+  <div class="column total-progress is-6 is-hidden-mobile">
+    <progress class="progress total-progress-actual" [value]="actual" [max]="max"></progress>
+  </div>
+</div>
+
+<h2 class="table-title">{{ title | translate }}</h2>
+<table class="table is-fullwidth is-narrow">
+  <thead>
+  <tr>
+    <th colspan="2">
+      <span translate>Projects.Summary.Total</span>
+    </th>
+    <th>
+      {{ 'Projects.Summary.Planned' | translate }}
+      <span>
+        <app-currency [code]="project.currency" [amount]="planned"></app-currency>
+      </span>
+    </th>
+    <th>
+      {{ 'Projects.Summary.Actual' | translate }}
+      <span>
+        <app-currency [code]="project.currency" [amount]="actual"></app-currency>
+      </span>
+    </th>
+    <th>
+      {{ 'Projects.Summary.Diff' | translate }}
+      <span [class.n]="diff < 0" [class.p]="diff > 0">
+        <app-currency [code]="project.currency" [amount]="diff"></app-currency>
+      </span>
+    </th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let movement of movements" app-project-summary-table-row [project]="project" [movement]="movement" (updateEvent)="update($event)" (removeEvent)="remove($event)"></tr>
+  <tr>
+    <td colspan="2">
+      <input [formControl]="nameControl" [class.is-danger]="nameControl.invalid && nameControl.touched" name="name" class="input" type="text" placeholder="{{ 'Projects.Summary.Placeholder.Name' | translate }}">
+    </td>
+    <td>
+      <input [formControl]="planAmountControl" [class.is-danger]="planAmountControl.invalid && planAmountControl.touched" name="planAmount" class="input" type="text" placeholder="{{ 'Projects.Summary.Placeholder.Planned' | translate }}">
+    </td>
+    <td>
+      <input class="input" type="text" placeholder="{{ 0 | currency:project.currency }}" disabled>
+    </td>
+    <td>
+      <input class="input" type="text" placeholder="{{ 0 | currency:project.currency }}" disabled>
+    </td>
+  </tr>
+  </tbody>
+  <tfoot>
+  <tr>
+    <td colspan="5">
+      <div class="buttons are-small is-centered">
+        <button class="button is-text" (click)="reset()" translate>Projects.Summary.Reset</button>
+        <button class="button is-text" (click)="add()" translate>Projects.Summary.Add</button>
+      </div>
+    </td>
+  </tr>
+  </tfoot>
+</table>

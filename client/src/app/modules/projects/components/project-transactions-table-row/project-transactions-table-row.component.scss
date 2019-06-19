@@ -1,0 +1,20 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+td {
+  border-right: .25em #fff solid;
+  border-bottom: .09em #222 dashed;
+  min-width: 7em;
+}
+
+td:nth-child(2) {
+  font-weight: $weight-bold;
+}
+
+td:nth-child(4) {
+  width: 100%;
+}
+
+td:last-child {
+  min-width: 0;
+}

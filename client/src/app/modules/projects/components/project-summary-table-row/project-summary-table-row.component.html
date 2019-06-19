@@ -1,0 +1,26 @@
+<td>
+  <button *ngIf="!edit" class="button is-small" (click)="remove()">
+    <span class="icon">
+      <i class="fas fa-trash"></i>
+    </span>
+  </button>
+  <button *ngIf="edit" class="button is-small" (click)="update()">
+    <span class="icon">
+      <i class="fas fa-save"></i>
+    </span>
+  </button>
+</td>
+<td (dblclick)="edit = true">
+  <span *ngIf="!edit">{{ movement.name }}</span>
+  <input *ngIf="edit" [formControl]="nameControl" [class.is-danger]="nameControl.invalid && nameControl.touched" name="name" class="input" type="text" placeholder="{{ 'Projects.Summary.Placeholder.Name' | translate }}">
+</td>
+<td (dblclick)="edit = true">
+  <app-currency *ngIf="!edit" [code]="project.currency" [amount]="movement.planAmount"></app-currency>
+  <input *ngIf="edit" [formControl]="planAmountControl" [class.is-danger]="planAmountControl.invalid && planAmountControl.touched" name="planAmount" class="input" type="text" placeholder="{{ 'Projects.Summary.Placeholder.Planned' | translate }}">
+</td>
+<td (dblclick)="edit = true">
+  <app-currency [code]="project.currency" [amount]="actual"></app-currency>
+</td>
+<td (dblclick)="edit = true" [class.n]="diff < 0" [class.p]="diff > 0">
+  <app-currency [code]="project.currency" [amount]="diff"></app-currency>
+</td>

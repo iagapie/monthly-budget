@@ -1,0 +1,50 @@
+<article *ngIf="isMessage" class="message is-success">
+  <div class="message-body" translate>Users.Form.ChangeProfile.Message</div>
+</article>
+<article *ngIf="isError" class="message is-danger">
+  <div class="message-body" translate>Users.Form.ChangeProfile.Error</div>
+</article>
+<form [formGroup]="form$">
+  <div class="field">
+    <label class="label" for="firstName" translate>Users.Form.FirstName</label>
+    <div class="control">
+      <input type="text" id="firstName" [class.is-danger]="isInvalid('firstName')" class="input" placeholder="{{ 'Users.Form.FirstName' | translate }}" formControlName="firstName">
+    </div>
+  </div>
+  <div class="field">
+    <label class="label" for="lastName" translate>Users.Form.LastName</label>
+    <div class="control">
+      <input type="text" id="lastName" [class.is-danger]="isInvalid('lastName')" class="input" placeholder="{{ 'Users.Form.LastName' | translate }}" formControlName="lastName">
+    </div>
+  </div>
+  <div class="field" *ngIf="withRoleSelect">
+    <label class="label" for="role" translate>Users.Form.Role</label>
+    <div class="control">
+      <div class="select is-fullwidth" [class.is-danger]="isInvalid('role')">
+        <select id="role" formControlName="role">
+          <option *ngFor="let role of roles$" [value]="role.value">{{ role.name }}</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label required" for="email" translate>Users.Form.Email</label>
+    <div class="control">
+      <input type="text" id="email" [class.is-danger]="isInvalid('email')" class="input" placeholder="{{ 'Users.Form.Email' | translate }}" formControlName="email">
+    </div>
+  </div>
+  <div class="field">
+    <label class="label required" for="userName" translate>Users.Form.Username</label>
+    <div class="control">
+      <input type="text" id="userName" [class.is-danger]="isInvalid('userName')" class="input" placeholder="{{ 'Users.Form.Username' | translate }}" formControlName="userName">
+    </div>
+  </div>
+  <div class="field is-grouped">
+    <div class="control">
+      <button class="button is-text" (click)="reset()" [disabled]="isSubmit" translate>Reset</button>
+    </div>
+    <div class="control">
+      <button class="button is-app-submit" (click)="submit()" [disabled]="isSubmit" translate>Save</button>
+    </div>
+  </div>
+</form>

@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ca59aec-67c6-4ef9-8cd6-9f8517a7bc0f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cloc</find>
+      <find>Configuration</find>
+      <find>Project</find>
+      <find>incl</find>
+      <find>AddAuthorization</find>
+      <find>addmed</find>
+      <find>MediatR</find>
+      <find>DispatchDomainEventsAsync</find>
+      <find>SetEntitiesUpdatedAt</find>
+      <find>mediator</find>
+      <find>_domainEvents</find>
+      <find>media</find>
+      <find>mediato</find>
+      <find>role</find>
+      <find>GetRequiredService</find>
+      <find>RequestServices</find>
+      <find>identity</find>
+      <find>AddDbContext</find>
+      <find>Password</find>
+      <find>1272</find>
+      <find>principal</find>
+      <find>Direction</find>
+      <find>AuthorizeWith</find>
+      <find>Populate</find>
+      <find>UpdateProjectField</find>
+      <find>ResolveFieldContext</find>
+      <find>resolve</find>
+      <find>protected</find>
+      <find>Arguments</find>
+      <find>Failed</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CFA1F1FD-BEF4-44AE-99CA-9F1EEA9DB432/08/aa81602e/RoutingHttpContextExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/d6/1f680b0e/Document.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0608D78-8A68-4C40-8858-FC61C813B64C/8a/69b6712f/EndpointRoutingApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/f4/5e94f3cb/Metrics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60C7208E-971E-4E2B-BFF0-F3388FEEDF37/97/57e88178/IdentityBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0608D78-8A68-4C40-8858-FC61C813B64C/5f/950403af/EndpointMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/0b/6d5b029b/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4453BBD8-2815-445B-AAD8-E59D0AB9775D/27/e3a5f173/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/ResolverException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/ce/de062df9/ExecutionError.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/AResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Identity/AppIdentityDbContextFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/IResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c6/5ff6d0b5/PathString.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/LoginMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/427697FE-42B7-459B-A530-2FB76D339D3B/36/a1b0f6d6/AuthAppBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/427697FE-42B7-459B-A530-2FB76D339D3B/26/0c4ccb37/AuthenticationMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/34/e3a8dab0/AuthenticationHttpContextExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/f4/63db3536/IAuthenticationSchemeProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/07/8395959b/IdentityUser`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Authorization/UserContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/493C4F14-8583-4DEF-9B17-03F3F9730341/F/NpgsqlPropertyBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/493C4F14-8583-4DEF-9B17-03F3F9730341/6E/NpgsqlModelAnnotations.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95D5D0AF-E902-409E-8550-C3359783A655/6d/bbf4d0a3/ICryptoTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/B/AuthenticatedEncryptionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/4/JwtPayload.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/298B1E10-86F0-4686-9486-E3DC04D2ECEF/02/236b4aec/StringValues.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/A/AuthenticatedEncryptionProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/5/CryptoProviderFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/2C/SignatureProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58E37E34-042E-44B0-93FF-C4FF35717C84/9d/5dc32f06/AuthenticationService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/427697FE-42B7-459B-A530-2FB76D339D3B/a3/ac960cc2/AuthenticationServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/IAggregateRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/c4/c37cb7b0/IAuthenticationService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/41/7f6ed53c/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/5/JwtSecurityToken.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/AMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/69/a2bfd2e2/HttpContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/28/34a7ea69/HttpResponse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/ValueObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/SeedWork/Enumeration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/Exceptions/FinanceDomainException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/MovementItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f0/0346931d/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/Direction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/ProjectAggregate/Project.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/IMovementRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/ProjectAggregate/IProjectRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/f8/3903f356/Decimal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/23/123a8b04/IdGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B987F110-9566-4D3B-898D-65A347EF6F7B/da/1c1bb11a/MediaTypeHeaderValue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/16/04c6e064/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/647CCDFF-6E85-4DCE-AE9F-7CB0FE40D3E0/bb/ee82d08a/IRequestHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/647CCDFF-6E85-4DCE-AE9F-7CB0FE40D3E0/fa/3db6bf43/IRequest`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/647CCDFF-6E85-4DCE-AE9F-7CB0FE40D3E0/48/dbcd549a/IBaseRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/IJwtTokenHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/e3/11a0966c/ULongGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/IJwtFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/IJwtTokenValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/ITokenFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/RefreshToken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/647CCDFF-6E85-4DCE-AE9F-7CB0FE40D3E0/72/899e3709/IRequestHandler`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/86/05efb5dd/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/DirectionDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/MovementItemDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/MovementDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/MovementRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/ProjectRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/FinanceContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/JwtTokenValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14713C6C-7B89-421C-91A9-21753958BD5F/36/fa8f656b/GenericIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/da/21ffa1bd/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/ProjectType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppSchema.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/ProjectEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppMutation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementItemEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/DirectionEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/2b/d0f520f4/ModelBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/47/3d0359bc/PropertyBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/08/672aab90/DocumentWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/ProjectDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/d9/b47c23a2/ExecutionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/UserDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/JwtIssuerOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/JwtFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14713C6C-7B89-421C-91A9-21753958BD5F/92/aaf94a46/ClaimsIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/1f/49ab5fd2/EntityTypeBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/JwtTokenHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Jwt/TokenFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/e1/40056b82/IDocumentWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/54/f55957c3/ResolveFieldContext`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f0/ac4fccf5/ReferenceCollectionBuilder`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/0/JwtRegisteredClaimNames.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/94/7d02cacf/RunExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FB0ABDAC-8D9B-4490-A54E-4B00C8FB1A6F/0/JwtRegisteredClaimNames.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/UserEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/RefreshTokenEntityTypeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/647CCDFF-6E85-4DCE-AE9F-7CB0FE40D3E0/24/b280455c/IMediator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/6e/6db8784c/DocumentExecuter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/d1/5112327a/IApplicationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/20/15812fe2/IndexBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0409EE17-4C49-4063-8D72-12A0DD93D5F1/f0/c4c8c84b/JwtBearerDefaults.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/569709E4-D0DF-48DB-9877-F3CA5A990527/6d/12e67b30/ServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14713C6C-7B89-421C-91A9-21753958BD5F/fd/1e5fb74b/Claim.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/75/faeac7ac/IHttpContextAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementItemInputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Identity/AuthSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/133C4D76-3CC7-4A26-A05F-947131E519D7/ec/c9bb03ce/IServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/2d/d6f6bce7/IServiceCollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/a1/b4f69383/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/46/93d54ca7/ServiceDescriptor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/ab/7ddfc2f3/ConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f7/c1e3c985/EntityFrameworkServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/RefreshTokenMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/bd/8054228d/ComplexGraphType`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/493C4F14-8583-4DEF-9B17-03F3F9730341/4/NpgsqlServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F2BA6E3-13C2-46D6-B391-07A3D51F113A/8a/7295747a/MinLengthAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserInputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45B80AE8-5287-4889-B763-035D637BFDDC/6c/5e43aa27/ServiceCollectionContainerBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/ad/987aba47/AuthorizationEvaluator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/ProjectInputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Identity/AppIdentityDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F2BA6E3-13C2-46D6-B391-07A3D51F113A/54/31b7b8e8/SR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45B80AE8-5287-4889-B763-035D637BFDDC/73/e33f0a4f/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F2BA6E3-13C2-46D6-B391-07A3D51F113A/3d/9c3760a0/TableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/b6/69ae008c/IInterfaceGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14713C6C-7B89-421C-91A9-21753958BD5F/69/260278d2/ClaimTypes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/6/JwtSecurityTokenHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/28/8cfd0771/ObjectGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/8b/732fb6a9/AuthorizationSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/7d/28515fbb/ServiceCollectionServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3826034D-821E-413A-B352-A5A9C819A4CF/1d/00f81a78/ApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/3d/61fd0401/GraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/42/33837ae9/IAuthorizationEvaluator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c4/414723ac/UseMiddlewareExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58E37E34-042E-44B0-93FF-C4FF35717C84/17/e3774732/AuthenticationFeature.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3826034D-821E-413A-B352-A5A9C819A4CF/41/fdf34c72/GraphQLHttpMiddleware`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/47/354d0238/IAuthenticationHandlerProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/e7/86922a04/IGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3826034D-821E-413A-B352-A5A9C819A4CF/ab/8f30d1c8/GraphQLBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58E37E34-042E-44B0-93FF-C4FF35717C84/d2/a9e44194/AuthenticationHandlerProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/47/e5643aa3/HttpServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/427697FE-42B7-459B-A530-2FB76D339D3B/2c/df6d6abc/AuthenticationHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0409EE17-4C49-4063-8D72-12A0DD93D5F1/d2/60938a17/JwtBearerHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81CFEBD7-44D6-44BF-BFC3-DC54BE55887F/55/d9cb1980/IdentityDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/3b/659c6eb9/FuncDependencyResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0409EE17-4C49-4063-8D72-12A0DD93D5F1/ae/bcdafb5a/AuthenticationFailedContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FB0ABDAC-8D9B-4490-A54E-4B00C8FB1A6F/4/JwtTokenUtilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/493C4F14-8583-4DEF-9B17-03F3F9730341/6/NpgsqlDbContextOptionsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/58/91c4bcba/ObjectGraphType`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0409EE17-4C49-4063-8D72-12A0DD93D5F1/1b/4a530b42/JwtBearerOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/08/6e22ec41/ResolveFieldContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/05/0dd9ad8a/InputObjectGraphType`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/bd/2aa580f2/AsyncFieldResolver`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/4d/3b246286/InputObjectGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/DirectionInputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/2d/f5cfc2be/AuthorizationValidationRule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/c4/a51fd195/DecimalGraphType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/DirectionType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/32/TokenValidationParameters.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementItemType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f6/2c98c96c/EntityFrameworkQueryableExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/bb/34dbafdf/IProvideClaimsPrincipal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/8c/7882d909/IDependencyResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/20190617185652_InitialIdentity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/569709E4-D0DF-48DB-9877-F3CA5A990527/d5/8f344645/GraphQLBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/cd/ea5cb1d8/IUserStore`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/f3/86583813/DataLoaderContextAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/9a/e6c00e93/IEntityTypeConfiguration`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/39/447b4058/RoleManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/57/ad843a9b/UserManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/2c/e1e2ce52/IdentityRole`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/14/1953f9ff/AuthorizationPolicyBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/a3/df876300/IdentityRole.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/52/8491ef70/ClaimAuthorizationRequirement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementInputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/88/7e59da9e/IdentityServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/d4/33930e86/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3CFEF37B-F29D-4EA7-9897-5F4AC092DC4E/fe/ab79e825/AuthorizationMetadataExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/94/6559b951/Resources.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81CFEBD7-44D6-44BF-BFC3-DC54BE55887F/21/1ff6efe2/IdentityDbContext`3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/8e/91079548/IdentityErrorDescriber.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81CFEBD7-44D6-44BF-BFC3-DC54BE55887F/de/fa788a7a/IdentityDbContext`8.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/a0/9eab7161/IdentityError.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/8d/07293b90/IdentityResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UserResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UsersResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/ChangePasswordResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UpdateUserResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/CreateUserResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/MovementsResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14713C6C-7B89-421C-91A9-21753958BD5F/4b/0523750e/ClaimsPrincipal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/ProjectsResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/ProjectResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/RemoveMovementItemResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/UpdateMovementItemResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/CreateMovementItemResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/RemoveMovementResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/UpdateMovementResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/CreateMovementResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/RemoveProjectResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/UpdateProjectResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/CreateProjectResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/b1/30e0fa87/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementInputType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementItemInputType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/IMovementRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/MovementRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/ProjectType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/Models/ProjectDto.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/ProjectInputType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/ProjectAggregate/IProjectRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/ProjectRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/MovementItemType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/ProjectAggregate/Project.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/MovementAggregate/Movement.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/ResolverInterface.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/ResolverException.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/IResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/AResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/CreateProjectResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/ProjectResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/ProjectsResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/RemoveProjectResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/UpdateProjectResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/CreateMovementResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/UpdateMovementResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/RemoveMovementResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/CreateMovementItemResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/UpdateMovementItemResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/RemoveMovementItemResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Movement/MovementsResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppQuery.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/CreateUserResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UpdateUserResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UserResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/Models/UserDto.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppMutation.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/ChangePasswordResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UsersResolver.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserInputType.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/Identity/AppIdentityDbContext.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/ProjectEntityTypeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementItemEntityTypeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementEntityTypeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/RefreshTokenEntityTypeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/UserEntityTypeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Infrastructure/FinanceContext.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/test.sql" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/src/IA.Finance.Api/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.IA.Finance/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea.IA.Finance" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea.IA.Finance" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".idea" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="src" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IA.Finance" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IA.Finance" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IA.Finance" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="IA.Finance.Api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.IA.Finance.Api">
+    <configuration name="IA.Finance.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/IA.Finance.Api/IA.Finance.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IA.Finance.Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IA.Finance.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/IA.Finance.Api/IA.Finance.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ca59aec-67c6-4ef9-8cd6-9f8517a7bc0f" name="Default Changelist" comment="" />
+      <created>1559597944992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559597944992</updated>
+      <workItem from="1559597946853" duration="69645000" />
+      <workItem from="1559862444010" duration="27524000" />
+      <workItem from="1559982727851" duration="19781000" />
+      <workItem from="1560193386531" duration="4223000" />
+      <workItem from="1560359835042" duration="47706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="168879000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32891566" />
+      <window_info anchor="bottom" id="GraphQL" order="16" />
+      <window_info anchor="bottom" id="REST Client" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/RefreshTokenMiddleware.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/RefreshTokenMiddleware.cs" initialLine="19">
+            <startOffsets>
+              <option value="583" />
+            </startOffsets>
+            <endOffsets>
+              <option value="616" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/RefreshTokenMiddleware.cs</url>
+          <line>39</line>
+          <properties documentPath="$PROJECT_DIR$/src/IA.Finance.Api/Middlewares/RefreshTokenMiddleware.cs" initialLine="39">
+            <startOffsets>
+              <option value="1662" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1758" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/ProjectRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <marker date="1560615500369" expanded="true" signature="6:225" ph="..." />
+            <marker date="1560615500369" expanded="true" signature="275:1316" ph="{...}" />
+            <marker date="1560615500369" expanded="true" signature="333:1314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/cd/ea5cb1d8/IUserStore`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/a0/9eab7161/IdentityError.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/8d/07293b90/IdentityResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/57/ad843a9b/UserManager`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="150" column="16" lean-forward="true" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+          <folding>
+            <marker date="1559877497796" expanded="true" signature="0:422" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1559877497796" expanded="false" signature="430:749" ph="..." />
+            <marker date="1559877497796" expanded="true" signature="790:112936" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="795:964" ph="/// Provides the APIs for managing user in a persistence store. ... " />
+            <marker date="1559877497796" expanded="true" signature="1032:112934" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="1340:1453" ph="/// The data protection purpose used for the reset password related methods. ... " />
+            <marker date="1559877497796" expanded="true" signature="1527:1637" ph="/// The data protection purpose used for the change phone number methods. ... " />
+            <marker date="1559877497796" expanded="true" signature="1719:1836" ph="/// The data protection purpose used for the email confirmation related methods. ... " />
+            <marker date="1559877497796" expanded="true" signature="2112:2189" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="2128:2183" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="2195:3487" ph="/// Constructs a new instance of &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.UserManager`1&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="3909:5562" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="4287:4425" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="4463:4621" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="4682:5140" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="4759:5132" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="5568:5742" ph="/// Gets or sets the persistence store the manager operates over. ... " />
+            <marker date="1559877497796" expanded="true" signature="5809:6084" ph="/// The &lt;see cref=&quot;T:Microsoft.Extensions.Logging.ILogger&quot; /&gt; used to log messages from the manager. ... " />
+            <marker date="1559877497796" expanded="true" signature="6138:6271" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IPasswordHasher`1&quot; /&gt; used to hash passwords. ... " />
+            <marker date="1559877497796" expanded="true" signature="6340:6472" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IUserValidator`1&quot; /&gt; used to validate users. ... " />
+            <marker date="1559877497796" expanded="true" signature="6610:6750" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IPasswordValidator`1&quot; /&gt; used to validate passwords. ... " />
+            <marker date="1559877497796" expanded="true" signature="6904:7064" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.ILookupNormalizer&quot; /&gt; used to normalize things like user and r ... " />
+            <marker date="1559877497796" expanded="true" signature="7127:7274" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IdentityErrorDescriber&quot; /&gt; used to generate error messages. ... " />
+            <marker date="1559877497796" expanded="true" signature="7343:7478" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IdentityOptions&quot; /&gt; used to configure Identity. ... " />
+            <marker date="1559877497796" expanded="true" signature="7533:7780" ph="/// Gets a flag indicating whether the backing user store supports authentication tokens. ... " />
+            <marker date="1559877497796" expanded="true" signature="7837:7974" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="7853:7968" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="7980:8225" ph="/// Gets a flag indicating whether the backing user store supports a user authenticator. ... " />
+            <marker date="1559877497796" expanded="true" signature="8278:8412" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="8294:8406" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="8418:8657" ph="/// Gets a flag indicating whether the backing user store supports recovery codes. ... " />
+            <marker date="1559877497796" expanded="true" signature="8716:8855" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="8732:8849" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="8861:9121" ph="/// Gets a flag indicating whether the backing user store supports two factor authentication. ... " />
+            <marker date="1559877497796" expanded="true" signature="9167:9294" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="9183:9288" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="9300:9533" ph="/// Gets a flag indicating whether the backing user store supports user passwords. ... " />
+            <marker date="1559877497796" expanded="true" signature="9578:9704" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="9594:9698" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="9710:9950" ph="/// Gets a flag indicating whether the backing user store supports security stamps. ... " />
+            <marker date="1559877497796" expanded="true" signature="10000:10131" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10016:10125" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10137:10362" ph="/// Gets a flag indicating whether the backing user store supports user roles. ... " />
+            <marker date="1559877497796" expanded="true" signature="10403:10525" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10419:10519" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10531:10766" ph="/// Gets a flag indicating whether the backing user store supports external logins. ... " />
+            <marker date="1559877497796" expanded="true" signature="10808:10931" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10824:10925" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="10937:11164" ph="/// Gets a flag indicating whether the backing user store supports user emails. ... " />
+            <marker date="1559877497796" expanded="true" signature="11206:11329" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="11222:11323" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="11335:11584" ph="/// Gets a flag indicating whether the backing user store supports user telephone numbers. ... " />
+            <marker date="1559877497796" expanded="true" signature="11632:11761" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="11648:11755" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="11767:11994" ph="/// Gets a flag indicating whether the backing user store supports user claims. ... " />
+            <marker date="1559877497796" expanded="true" signature="12036:12159" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="12052:12153" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="12165:12398" ph="/// Gets a flag indicating whether the backing user store supports user lock-outs. ... " />
+            <marker date="1559877497796" expanded="true" signature="12442:12567" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="12458:12561" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="12573:12946" ph="/// Gets a flag indicating whether the backing user store supports returning ... " />
+            <marker date="1559877497796" expanded="true" signature="12993:13120" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="13009:13114" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="13126:13240" ph="///     Returns an IQueryable of users if the store is an IQueryableUserStore ... " />
+            <marker date="1559877497796" expanded="true" signature="13283:13578" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="13299:13572" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="13681:13761" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="13767:14203" ph="/// Returns the Name claim value if present otherwise returns null. ... " />
+            <marker date="1559877497796" expanded="true" signature="14268:14456" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="14462:14897" ph="/// Returns the User ID claim value if present otherwise returns null. ... " />
+            <marker date="1559877497796" expanded="true" signature="14960:15146" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="15152:15548" ph="/// Returns the user corresponding to the IdentityOptions.ClaimsIdentity.UserIdClaimType claim in ... " />
+            <marker date="1559877497796" expanded="true" signature="15619:15893" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="15899:16290" ph="/// Generates a value suitable for use in concurrency tracking. ... " />
+            <marker date="1559877497796" expanded="true" signature="16364:16441" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="16447:16907" ph="/// Creates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store with no password, ... " />
+            <marker date="1559877497796" expanded="true" signature="16977:17571" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="17577:17982" ph="/// Updates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store. ... " />
+            <marker date="1559877497796" expanded="true" signature="18046:18218" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="18224:18631" ph="/// Deletes the specified &lt;paramref name=&quot;user&quot; /&gt; from the backing store. ... " />
+            <marker date="1559877497796" expanded="true" signature="18695:18893" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="18899:19309" ph="/// Finds and returns a user, if any, who has the specified &lt;paramref name=&quot;userId&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="19369:19482" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="19488:19887" ph="/// Finds and returns a user, if any, who has the specified user name. ... " />
+            <marker date="1559877497796" expanded="true" signature="19957:20936" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="20304:20904" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="20542:20851" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="20614:20841" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="20942:21489" ph="/// Creates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store with given password, ... " />
+            <marker date="1559877497796" expanded="true" signature="21589:22098" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="22104:22361" ph="/// Normalize a key (user name, email) for consistent comparisons. ... " />
+            <marker date="1559877497796" expanded="true" signature="22412:22530" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="22583:22808" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="22814:23145" ph="/// Updates the normalized user name for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="23217:23436" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="23442:23805" ph="/// Gets the user name for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="23872:24081" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="24087:24466" ph="/// Sets the given &lt;paramref name=&quot;userName&quot; /&gt; for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="24571:24882" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="24888:25269" ph="/// Gets the user identifier for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="25334:25452" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="25458:26047" ph="/// Returns a flag indicating whether the given &lt;paramref name=&quot;password&quot; /&gt; is valid for the ... " />
+            <marker date="1559877497796" expanded="true" signature="26131:27076" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="26468:26669" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="26730:27048" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="27082:27557" ph="/// Gets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has a password. ... " />
+            <marker date="1559877497796" expanded="true" signature="27616:27985" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="27991:28545" ph="/// Adds the &lt;paramref name=&quot;password&quot; /&gt; to the specified &lt;paramref name=&quot;user&quot; /&gt; only if the user ... " />
+            <marker date="1559877497796" expanded="true" signature="28650:29569" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="28938:29342" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="29575:30279" ph="/// Changes a user's password after confirming the specified &lt;paramref name=&quot;currentPassword&quot; /&gt; is correct, ... " />
+            <marker date="1559877497796" expanded="true" signature="30420:31361" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="30735:30983" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="31367:31735" ph="///Removes a user's password. ... " />
+            <marker date="1559877497796" expanded="true" signature="31813:32176" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="32182:32830" ph="/// Returns a &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.PasswordVerificationResult&quot; /&gt; indicating the result of  ... " />
+            <marker date="1559877497796" expanded="true" signature="32992:33255" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="33261:33642" ph="/// Get the security stamp for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="33714:34099" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="34105:34668" ph="/// Regenerates the security stamp for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="34751:35012" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="35018:35485" ph="/// Generates a password reset token for the specified &lt;paramref name=&quot;user&quot; /&gt;, using ... " />
+            <marker date="1559877497796" expanded="true" signature="35561:35716" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="35722:36428" ph="/// Resets the &lt;paramref name=&quot;user&quot; /&gt;'s password to the specified &lt;paramref name=&quot;newPassword&quot; /&gt; after ... " />
+            <marker date="1559877497796" expanded="true" signature="36558:37094" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="37100:37676" ph="/// Retrieves the user associated with the specified external login provider and login provider key. ... " />
+            <marker date="1559877497796" expanded="true" signature="37766:38309" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="38315:39066" ph="/// Attempts to remove the provided external login information from the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="39202:39965" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="39971:40598" ph="/// Adds an external &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.UserLoginInfo&quot; /&gt; to the specified &lt;paramref name ... " />
+            <marker date="1559877497796" expanded="true" signature="40704:41652" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="41071:41524" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="41658:42111" ph="/// Retrieves the associated logins for the specified &lt;param ref=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="42190:42551" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="42557:43035" ph="/// Adds the specified &lt;paramref name=&quot;claim&quot; /&gt; to the &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="43114:43460" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="43429:43452" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="43466:43947" ph="/// Adds the specified &lt;paramref name=&quot;claims&quot; /&gt; to the &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="44060:44597" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="44603:45245" ph="/// Replaces the given &lt;paramref name=&quot;claim&quot; /&gt; on the specified &lt;paramref name=&quot;user&quot; /&gt; with the &lt;paramref nam ... " />
+            <marker date="1559877497796" expanded="true" signature="45369:46024" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="46030:46597" ph="/// Removes the specified &lt;paramref name=&quot;claim&quot; /&gt; from the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="46679:47028" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="46997:47020" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="47034:47617" ph="/// Removes the specified &lt;paramref name=&quot;claims&quot; /&gt; from the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="47733:48273" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="48279:48745" ph="/// Gets a list of &lt;see cref=&quot;T:System.Security.Claims.Claim&quot; /&gt;s to be belonging to the specified &lt;paramref name ... " />
+            <marker date="1559877497796" expanded="true" signature="48816:49177" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="49183:49672" ph="/// Add the specified &lt;paramref name=&quot;user&quot; /&gt; to the named role. ... " />
+            <marker date="1559877497796" expanded="true" signature="49771:50314" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="50320:50813" ph="/// Add the specified &lt;paramref name=&quot;user&quot; /&gt; to the named roles. ... " />
+            <marker date="1559877497796" expanded="true" signature="50927:51728" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="51258:51675" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="51734:52239" ph="/// Removes the specified &lt;paramref name=&quot;user&quot; /&gt; from the named role. ... " />
+            <marker date="1559877497796" expanded="true" signature="52343:52888" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="52989:53392" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="53476:53871" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="53877:54386" ph="/// Removes the specified &lt;paramref name=&quot;user&quot; /&gt; from the named roles. ... " />
+            <marker date="1559877497796" expanded="true" signature="54505:55293" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="54819:55240" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="55299:55643" ph="/// Gets a list of role names the specified &lt;paramref name=&quot;user&quot; /&gt; belongs to. ... " />
+            <marker date="1559877497796" expanded="true" signature="55714:56082" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="56088:56646" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; is a member of the give named role. ... " />
+            <marker date="1559877497796" expanded="true" signature="56721:57148" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="57154:57496" ph="/// Gets the email address for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="57560:57924" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="57930:58411" ph="/// Sets the &lt;paramref name=&quot;email&quot; /&gt; address for a &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="58510:58952" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="58958:59375" ph="/// Gets the user, if any, associated with the normalized value of the specified email address. ... " />
+            <marker date="1559877497796" expanded="true" signature="59443:60465" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="59836:60432" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="60074:60379" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="60146:60369" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="60471:60766" ph="/// Updates the normalized email for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="60835:61140" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="61146:61504" ph="/// Generates an email confirmation token for the specified user. ... " />
+            <marker date="1559877497796" expanded="true" signature="61584:61747" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="61753:62278" ph="/// Validates that an email confirmation token matches the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="62381:62904" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="62910:63457" ph="/// Gets a flag indicating whether the email address for the specified &lt;paramref name=&quot;user&quot; /&gt; has been verified ... " />
+            <marker date="1559877497796" expanded="true" signature="63527:63900" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="63906:64308" ph="/// Generates an email change token for the specified user. ... " />
+            <marker date="1559877497796" expanded="true" signature="64399:64592" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="64598:65193" ph="/// Updates a users emails if the specified email change &lt;paramref name=&quot;token&quot; /&gt; is valid for the user. ... " />
+            <marker date="1559877497796" expanded="true" signature="65318:65996" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="66002:66377" ph="/// Gets the telephone number, if any, for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="66447:66837" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="66843:67328" ph="/// Sets the phone number for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="67439:67907" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="67913:68550" ph="/// Sets the phone number for the specified &lt;paramref name=&quot;user&quot; /&gt; if the specified ... " />
+            <marker date="1559877497796" expanded="true" signature="68684:69655" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="68963:69384" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="69661:70185" ph="/// Gets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt;'s telephone number has been confirmed. ... " />
+            <marker date="1559877497796" expanded="true" signature="70255:70648" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="70654:71133" ph="/// Generates a telephone number change token for the specified user. ... " />
+            <marker date="1559877497796" expanded="true" signature="71246:71424" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="71430:72119" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt;'s phone number change verification ... " />
+            <marker date="1559877497796" expanded="true" signature="72248:72520" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="72526:73259" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;token&quot; /&gt; is valid for ... " />
+            <marker date="1559877497796" expanded="true" signature="73405:74484" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="74023:74457" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="74490:75044" ph="/// Generates a token for the given &lt;paramref name=&quot;user&quot; /&gt; and &lt;paramref name=&quot;purpose&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="75168:75700" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="75706:75902" ph="///Registers a token provider. ... " />
+            <marker date="1559877497796" expanded="true" signature="76027:76210" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="76216:76720" ph="/// Gets a list of valid two factor token providers for the specified &lt;paramref name=&quot;user&quot; /&gt;, ... " />
+            <marker date="1559877497796" expanded="true" signature="76809:77464" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="77141:77420" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="77470:78044" ph="/// Verifies the specified two factor authentication &lt;paramref name=&quot;token&quot; /&gt; against the &lt;paramref name=&quot;user&quot;  ... " />
+            <marker date="1559877497796" expanded="true" signature="78173:79014" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="78697:78987" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="79020:79497" ph="/// Gets a two factor authentication token for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="79591:80029" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="80035:80594" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has two factor authentication enable ... " />
+            <marker date="1559877497796" expanded="true" signature="80667:81066" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="81072:81735" ph="/// Sets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has two factor authentication enabled o ... " />
+            <marker date="1559877497796" expanded="true" signature="81845:82379" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="82385:82867" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; his locked out, ... " />
+            <marker date="1559877497796" expanded="true" signature="82932:83488" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="83494:84054" ph="/// Sets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; is locked out, ... " />
+            <marker date="1559877497796" expanded="true" signature="84162:84634" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="84640:85049" ph="/// Retrieves a flag indicating whether user lockout can enabled for the specified user. ... " />
+            <marker date="1559877497796" expanded="true" signature="85120:85509" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="85515:86028" ph="/// Gets the last &lt;see cref=&quot;T:System.DateTimeOffset&quot; /&gt; a user's last lockout expired, if any. ... " />
+            <marker date="1559877497796" expanded="true" signature="86110:86499" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="86505:87102" ph="/// Locks out a user until the specified end date has passed. Setting a end date in the past immediately unlocks  ... " />
+            <marker date="1559877497796" expanded="true" signature="87224:88075" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="87493:87938" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="88081:88680" ph="/// Increments the access failed count for the user as an asynchronous operation. ... " />
+            <marker date="1559877497796" expanded="true" signature="88756:89708" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="89714:90131" ph="/// Resets the access failed count for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="90224:90644" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="90650:91056" ph="/// Retrieves the current number of failed accesses for the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="91129:91521" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="91527:91947" ph="/// Returns a list of users from the user store who have the specified &lt;paramref name=&quot;claim&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="92020:92378" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="92384:92859" ph="/// Returns a list of users from the user store who are members of the specified &lt;paramref name=&quot;roleName&quot; /&gt;. ... " />
+            <marker date="1559877497796" expanded="true" signature="92934:93333" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="93339:93684" ph="///Returns an authentication token for a user. ... " />
+            <marker date="1559877497796" expanded="true" signature="93815:94511" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="94517:94931" ph="///Sets an authentication token for a user. ... " />
+            <marker date="1559877497796" expanded="true" signature="95101:95879" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="95885:96222" ph="///Remove an authentication token for a user. ... " />
+            <marker date="1559877497796" expanded="true" signature="96370:97115" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="97121:97281" ph="///Returns the authenticator key for the user. ... " />
+            <marker date="1559877497796" expanded="true" signature="97350:97759" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="97765:97945" ph="///Resets the authenticator key for the user. ... " />
+            <marker date="1559877497796" expanded="true" signature="98037:98626" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="98632:98800" ph="/// Generates a new base32 encoded 160-bit security secret (size of SHA1 hash). ... " />
+            <marker date="1559877497796" expanded="true" signature="98856:98920" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="98926:99352" ph="/// Generates recovery codes for the user, this invalidates any previous recovery codes for the user. ... " />
+            <marker date="1559877497796" expanded="true" signature="99479:100095" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="100101:100181" ph="///Generate a new recovery code. ... " />
+            <marker date="1559877497796" expanded="true" signature="100240:100308" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="100314:100698" ph="/// Returns whether a recovery code is valid for a user. Note: recovery codes are only valid ... " />
+            <marker date="1559877497796" expanded="true" signature="100815:101378" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="101384:101606" ph="/// Returns how many recovery code are still valid for a user. ... " />
+            <marker date="1559877497796" expanded="true" signature="101671:102064" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="102070:102352" ph="/// Releases the unmanaged resources used by the role manager and optionally releases the managed resources. ... " />
+            <marker date="1559877497796" expanded="true" signature="102403:102528" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="102592:102847" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="102907:103156" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="103231:103489" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="103553:103814" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="103820:104031" ph="/// Creates bytes to use as a security token from the user's security stamp. ... " />
+            <marker date="1559877497796" expanded="true" signature="104106:104232" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="104296:104495" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="104501:104819" ph="///Updates a user's password hash. ... " />
+            <marker date="1559877497796" expanded="true" signature="104955:105067" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="105254:105733" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="105288:105469" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="105787:106027" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="106073:106213" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="106265:106508" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="106571:106838" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="106890:107133" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="107139:107319" ph="///Generates the token purpose used to change email. ... " />
+            <marker date="1559877497796" expanded="true" signature="107391:107443" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="107449:107853" ph="/// Should return &lt;see cref=&quot;P:Microsoft.AspNetCore.Identity.IdentityResult.Success&quot; /&gt; if validation is successf ... " />
+            <marker date="1559877497796" expanded="true" signature="107924:109120" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="108016:108206" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="108383:108578" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="109126:109574" ph="/// Should return &lt;see cref=&quot;P:Microsoft.AspNetCore.Identity.IdentityResult.Success&quot; /&gt; if validation is successf ... " />
+            <marker date="1559877497796" expanded="true" signature="109679:110679" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="109919:110128" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="110685:110923" ph="/// Called to update the user after validating and updating the normalized email/user name. ... " />
+            <marker date="1559877497796" expanded="true" signature="111000:111332" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="111406:111682" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="111757:112048" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="112128:112413" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="112471:112723" ph="{...}" />
+            <marker date="1559877497796" expanded="true" signature="112828:112930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/94/6559b951/Resources.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2254925F-A632-4F31-B1D5-B3D82A28CAEE/8e/91079548/IdentityErrorDescriber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/IUserRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <marker date="1560777675960" expanded="true" signature="6:97" ph="..." />
+            <marker date="1560777675960" expanded="true" signature="156:830" ph="{...}" />
+            <marker date="1560777675960" expanded="true" signature="215:828" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/AResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+          <folding>
+            <marker date="1560728279233" expanded="true" signature="6:119" ph="..." />
+            <marker date="1560728279233" expanded="true" signature="163:934" ph="{...}" />
+            <marker date="1560728279233" expanded="true" signature="219:932" ph="{...}" />
+            <marker date="1560728279233" expanded="true" signature="571:847" ph="{...}" />
+            <marker date="1560728279233" expanded="true" signature="719:811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/Project/ProjectsResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+          <folding>
+            <marker date="1560728429247" expanded="true" signature="6:259" ph="..." />
+            <marker date="1560728429247" expanded="true" signature="311:1083" ph="{...}" />
+            <marker date="1560728429247" expanded="true" signature="384:1081" ph="{...}" />
+            <marker date="1560728429247" expanded="true" signature="815:1075" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/ProjectDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1560594495142" expanded="true" signature="46:409" ph="{...}" />
+            <marker date="1560594495142" expanded="true" signature="76:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/ProjectType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <marker date="1560594496061" expanded="true" signature="6:49" ph="..." />
+            <marker date="1560594496061" expanded="true" signature="89:496" ph="{...}" />
+            <marker date="1560594496061" expanded="true" signature="150:494" ph="{...}" />
+            <marker date="1560594496061" expanded="true" signature="185:488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <marker date="1560782807814" expanded="true" signature="6:49" ph="..." />
+            <marker date="1560782807814" expanded="true" signature="89:567" ph="{...}" />
+            <marker date="1560782807814" expanded="true" signature="144:565" ph="{...}" />
+            <marker date="1560782807814" expanded="true" signature="176:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding>
+            <marker date="1560121958489" expanded="true" signature="6:480" ph="..." />
+            <marker date="1560121958489" expanded="true" signature="506:7903" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="543:7901" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="824:1053" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="1186:1411" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="2700:3244" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="2870:3203" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="3328:3452" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="3539:3683" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="3797:3879" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="3973:4934" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="4108:4898" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="4517:4838" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="5345:7895" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="5679:7855" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="6738:7177" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="6870:7058" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="7214:7752" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="7275:7661" ph="{...}" />
+            <marker date="1560121958489" expanded="true" signature="7791:7841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UsersResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <marker date="1560784862599" expanded="true" signature="6:187" ph="..." />
+            <marker date="1560784862599" expanded="true" signature="236:818" ph="{...}" />
+            <marker date="1560784862599" expanded="true" signature="303:816" ph="{...}" />
+            <marker date="1560784862599" expanded="true" signature="600:810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Models/UserDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1560779551541" expanded="true" signature="46:515" ph="{...}" />
+            <marker date="1560779551541" expanded="true" signature="73:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UserResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1560778815109" expanded="true" signature="6:134" ph="..." />
+            <marker date="1560778815109" expanded="true" signature="183:1324" ph="{...}" />
+            <marker date="1560778815109" expanded="true" signature="236:1322" ph="{...}" />
+            <marker date="1560778815109" expanded="true" signature="578:1316" ph="{...}" />
+            <marker date="1560778815109" expanded="true" signature="745:1238" ph="{...}" />
+            <marker date="1560778815109" expanded="true" signature="860:1224" ph="{...}" />
+            <marker date="1560778815109" expanded="true" signature="1012:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/ChangePasswordResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <marker date="1560781289388" expanded="true" signature="6:105" ph="..." />
+            <marker date="1560781289388" expanded="true" signature="154:2111" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="214:2109" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="705:2103" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="778:903" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="975:1096" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="1473:1937" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="1586:1923" ph="{...}" />
+            <marker date="1560781289388" expanded="true" signature="1738:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Types/UserInputType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <marker date="1560792632556" expanded="true" signature="6:49" ph="..." />
+            <marker date="1560792632556" expanded="true" signature="89:501" ph="{...}" />
+            <marker date="1560792632556" expanded="true" signature="154:499" ph="{...}" />
+            <marker date="1560792632556" expanded="true" signature="191:493" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/UpdateUserResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <marker date="1560778815108" expanded="true" signature="6:134" ph="..." />
+            <marker date="1560778815108" expanded="true" signature="183:1806" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="242:1804" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="592:1798" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="654:768" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="964:1056" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="1220:1312" ph="{...}" />
+            <marker date="1560778815108" expanded="true" signature="1606:1677" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/9a/e6c00e93/IEntityTypeConfiguration`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/Repositories/UserRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1648">
+          <caret line="103" column="34" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
+          <folding>
+            <marker date="1560777691175" expanded="true" signature="6:295" ph="..." />
+            <marker date="1560777691175" expanded="true" signature="345:4875" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="397:4873" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="664:864" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="1026:1565" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="1277:1471" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="1610:2170" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="1795:2012" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="2572:2791" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="2856:3075" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="3134:3351" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="3426:3762" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="3873:4477" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="4013:4147" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="4328:4441" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="4539:4867" ph="{...}" />
+            <marker date="1560777691175" expanded="true" signature="4692:4831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Domain/AggregatesModel/UserAggregate/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1560123907723" expanded="false" signature="6:136" ph="..." />
+            <marker date="1560123907723" expanded="true" signature="195:3163" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="244:3161" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1074:1378" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1431:1768" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1475:1570" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1624:1723" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1823:2142" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="1864:1956" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="2007:2103" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="2195:2508" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="2235:2326" ph="{...}" />
+            <marker date="1560123907723" expanded="true" signature="2376:2471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81CFEBD7-44D6-44BF-BFC3-DC54BE55887F/de/fa788a7a/IdentityDbContext`8.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81CFEBD7-44D6-44BF-BFC3-DC54BE55887F/55/d9cb1980/IdentityDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/AppIdentityDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Identity/AppIdentityDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1560797585734" expanded="true" signature="6:130" ph="..." />
+            <marker date="1560797585734" expanded="true" signature="165:1301" ph="{...}" />
+            <marker date="1560797585734" expanded="true" signature="225:1299" ph="{...}" />
+            <marker date="1560797585734" expanded="true" signature="331:351" ph="{...}" />
+            <marker date="1560797585734" expanded="true" signature="422:1293" ph="{...}" />
+            <marker date="1560797585734" expanded="true" signature="544:1281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190617185812_InitialFinance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2643">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/Resolvers/User/CreateUserResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1560778457705" expanded="true" signature="6:134" ph="..." />
+            <marker date="1560778457705" expanded="true" signature="183:1746" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="242:1744" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="652:1738" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="714:828" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="897:1015" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="1222:1285" ph="{...}" />
+            <marker date="1560778457705" expanded="true" signature="1596:1688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="82" column="56" selection-start-line="82" selection-start-column="56" selection-end-line="82" selection-end-column="56" />
+          <folding>
+            <marker date="1560778815105" expanded="true" signature="6:256" ph="..." />
+            <marker date="1560778815105" expanded="true" signature="290:3096" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="344:3094" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="404:3088" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="448:543" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="752:1040" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="773:897" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="933:1026" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="1284:1571" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="1305:1428" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="1464:1557" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="1840:2129" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="1861:1986" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2022:2115" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2258:2543" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2279:2400" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2436:2529" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2792:3076" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2813:2933" ph="{...}" />
+            <marker date="1560778815105" expanded="true" signature="2969:3062" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/20190617185652_InitialIdentity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1468">
+          <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
+          <folding>
+            <marker date="1560797812809" expanded="false" signature="6:115" ph="..." />
+            <marker date="1560797812809" expanded="true" signature="152:10039" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="207:10037" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="283:9362" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="427:758" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="814:900" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="1037:2228" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="2284:2370" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="2512:2914" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="2970:3382" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="3524:3926" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="3982:4394" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="4536:4850" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="4906:5352" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="5493:5647" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="5703:6455" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="6597:6890" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="6946:7395" ph="{...}" />
+            <marker date="1560797812809" expanded="true" signature="9435:10031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190617233556_InitialFinance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4163">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190617233556_InitialFinance.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190617234032_InitialFinance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/493C4F14-8583-4DEF-9B17-03F3F9730341/F/NpgsqlPropertyBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="162" column="49" selection-start-line="162" selection-start-column="49" selection-end-line="162" selection-end-column="49" />
+          <folding>
+            <marker date="1559696459029" expanded="false" signature="6:408" ph="..." />
+            <marker date="1559696459029" expanded="true" signature="490:12408" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="497:611" ph="///     Npgsql specific extension methods for &lt;see cref=&quot;PropertyBuilder&quot; /&gt;. ... " />
+            <marker date="1559696459029" expanded="true" signature="667:12406" ph="{...}" />
+            <marker date="1559696459029" expanded="false" signature="682:3393" ph="Sequence Hi Lo" />
+            <marker date="1559696459029" expanded="true" signature="714:1319" ph="///     Configures the property to use a sequence-based hi-lo pattern to generate values for new entities, ... " />
+            <marker date="1559696459029" expanded="true" signature="1533:2379" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="1985:2093" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="2389:2994" ph="///     Configures the property to use a sequence-based hi-lo pattern to generate values for new entities, ... " />
+            <marker date="1559696459029" expanded="false" signature="3403:5112" ph="Serial" />
+            <marker date="1559696459029" expanded="true" signature="3427:3890" ph="///     Configures the property to use the PostgreSQL SERIAL feature to generate values for new entities, ... " />
+            <marker date="1559696459029" expanded="true" signature="4011:4261" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="4271:4831" ph="///     Configures the property to use the PostgreSQL SERIAL feature to generate values for new entities, ... " />
+            <marker date="1559696459029" expanded="false" signature="5122:6310" ph="Identity always" />
+            <marker date="1559696459029" expanded="true" signature="5155:5887" ph="/// &lt;para&gt; ... " />
+            <marker date="1559696459029" expanded="true" signature="6016:6274" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="6320:10631" ph="Identity by default" />
+            <marker date="1559696459029" expanded="true" signature="6357:7089" ph="/// &lt;para&gt; ... " />
+            <marker date="1559696459029" expanded="true" signature="7221:7482" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="7492:8321" ph="/// &lt;para&gt; ... " />
+            <marker date="1559696459029" expanded="true" signature="8607:9339" ph="/// &lt;para&gt; ... " />
+            <marker date="1559696459029" expanded="true" signature="9539:10368" ph="/// &lt;para&gt; ... " />
+            <marker date="1559696459029" expanded="false" signature="10641:12179" ph="Comment" />
+            <marker date="1559696459029" expanded="true" signature="10666:11050" ph="///     Configures the comment set on the column when targeting Npgsql. ... " />
+            <marker date="1559696459029" expanded="true" signature="11209:11470" ph="{...}" />
+            <marker date="1559696459029" expanded="true" signature="11480:11864" ph="///     Configures the comment set on the column when targeting Npgsql. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190617235600_InitialFinance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/GraphQL/AppMutation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <marker date="1560781292242" expanded="true" signature="6:256" ph="..." />
+            <marker date="1560781292242" expanded="true" signature="290:7580" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="339:7578" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="402:7572" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="446:541" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="968:1258" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="989:1115" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="1151:1244" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="1523:1813" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="1544:1670" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="1706:1799" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2241:2535" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2262:2392" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2428:2521" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2795:3088" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2816:2945" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="2981:3074" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="3348:3641" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="3369:3498" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="3534:3627" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="3891:4184" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="3912:4041" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="4077:4170" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="4448:4742" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="4469:4599" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="4635:4728" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5006:5300" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5027:5157" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5193:5286" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5552:5846" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5573:5703" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="5739:5832" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6126:6424" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6147:6281" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6317:6410" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6704:7002" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6725:6859" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="6895:6988" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="7262:7560" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="7283:7417" ph="{...}" />
+            <marker date="1560781292242" expanded="true" signature="7453:7546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/DirectionEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1559696564540" expanded="false" signature="6:150" ph="..." />
+            <marker date="1559696564540" expanded="true" signature="208:664" ph="{...}" />
+            <marker date="1559696564540" expanded="true" signature="298:662" ph="{...}" />
+            <marker date="1559696564540" expanded="true" signature="372:656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/RefreshTokenEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding>
+            <marker date="1560816292092" expanded="false" signature="6:146" ph="..." />
+            <marker date="1560816292092" expanded="true" signature="204:1033" ph="{...}" />
+            <marker date="1560816292092" expanded="true" signature="300:1031" ph="{...}" />
+            <marker date="1560816292092" expanded="true" signature="377:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/ProjectEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1560816292475" expanded="false" signature="6:204" ph="..." />
+            <marker date="1560816292475" expanded="true" signature="262:1231" ph="{...}" />
+            <marker date="1560816292475" expanded="true" signature="348:1229" ph="{...}" />
+            <marker date="1560816292475" expanded="true" signature="420:1223" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementItemEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1560816292891" expanded="false" signature="6:205" ph="..." />
+            <marker date="1560816292891" expanded="true" signature="263:1086" ph="{...}" />
+            <marker date="1560816292891" expanded="true" signature="359:1084" ph="{...}" />
+            <marker date="1560816292891" expanded="true" signature="436:1078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/MovementEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <marker date="1560816293316" expanded="true" signature="6:263" ph="..." />
+            <marker date="1560816293316" expanded="true" signature="321:1679" ph="{...}" />
+            <marker date="1560816293316" expanded="true" signature="409:1677" ph="{...}" />
+            <marker date="1560816293316" expanded="true" signature="482:1671" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Migrations/App/20190618000945_InitialFinance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1032">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/EntityConfigurations/UserEntityTypeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <marker date="1560816575910" expanded="false" signature="6:146" ph="..." />
+            <marker date="1560816575910" expanded="true" signature="204:1573" ph="{...}" />
+            <marker date="1560816575910" expanded="true" signature="284:1571" ph="{...}" />
+            <marker date="1560816575910" expanded="true" signature="353:1565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/ab/7ddfc2f3/ConfigurationExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Infrastructure/FinanceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="152" column="63" lean-forward="true" selection-start-line="152" selection-start-column="63" selection-end-line="152" selection-end-column="63" />
+          <folding>
+            <marker date="1560816856277" expanded="false" signature="6:533" ph="..." />
+            <marker date="1560816856277" expanded="true" signature="570:5573" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="629:4829" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="1333:1353" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="1429:2534" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="2249:2522" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="2607:2727" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="2842:2959" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3041:3263" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3348:4089" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3631:3739" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3770:3847" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3867:4079" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="3930:4065" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4132:4477" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4158:4235" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4255:4467" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4318:4453" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4522:4823" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4727:4813" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4925:5571" ph="{...}" />
+            <marker date="1560816856277" expanded="true" signature="4992:5565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/test2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="99" column="55" lean-forward="true" selection-start-line="99" selection-start-column="55" selection-end-line="99" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/finance.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="211" column="13" lean-forward="true" selection-start-line="211" selection-start-column="13" selection-end-line="211" selection-end-column="13" />
+          <folding>
+            <marker date="1560896979338" expanded="true" signature="6:1266" ph="..." />
+            <marker date="1560896979338" expanded="true" signature="1292:9580" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="1319:9578" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="1378:1441" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="1513:1728" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1560896979338" expanded="true" signature="1807:8227" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="3529:3842" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="3899:4009" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="4676:4983" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="5049:5246" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="5284:6606" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="5384:5922" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="6163:6591" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="6241:6573" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="6340:6475" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="6989:7265" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="7590:7836" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="7628:7822" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="7946:8192" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="7984:8178" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="8308:9572" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="8395:8511" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="8563:8836" ph="{...}" />
+            <marker date="1560896979338" expanded="true" signature="8853:9037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IA.Finance.Api/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

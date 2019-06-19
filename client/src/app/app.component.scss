@@ -1,0 +1,12 @@
+:host {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}

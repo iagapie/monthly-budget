@@ -1,0 +1,30 @@
+<div class="modal" [class.is-active]="isActive">
+  <div class="modal-background" (click)="close()"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p *ngIf="!project" class="modal-card-title" translate>Projects.Form.CreateProject</p>
+      <p *ngIf="project" class="modal-card-title" translate [translateParams]="{id: project.id}">Projects.Form.UpdateProject</p>
+      <button class="delete" aria-label="close" (click)="close()"></button>
+    </header>
+    <section class="modal-card-body">
+      <form [formGroup]="form">
+        <div class="field">
+          <label class="label" for="project-name-{{ id }}" translate>Projects.Form.Name</label>
+          <div class="control">
+            <input type="text" id="project-name-{{ id }}" [class.is-danger]="isInvalid('name')" class="input" placeholder="{{ 'Projects.Form.Name' | translate }}" formControlName="name">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="project-currency-{{ id }}" translate>Projects.Form.Currency</label>
+          <div class="control">
+            <input type="text" id="project-currency-{{ id }}" [class.is-danger]="isInvalid('currency')" class="input" placeholder="{{ 'Projects.Form.Currency' | translate }}" formControlName="currency">
+          </div>
+        </div>
+      </form>
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button is-text" (click)="close()" [disabled]="isSubmit" translate>Projects.Form.Cancel</button>
+      <button class="button is-app-submit" (click)="submit()" [disabled]="isSubmit" translate>Projects.Form.Save</button>
+    </footer>
+  </div>
+</div>

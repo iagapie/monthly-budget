@@ -1,0 +1,73 @@
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds has-text-centered-mobile">
+        <h1 class="header-title" translate>Users.CreateUser</h1>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <form [formGroup]="form$">
+      <div class="columns">
+        <div class="column is-half">
+          <div class="field">
+            <label class="label" for="firstName" translate>Users.Form.FirstName</label>
+            <div class="control">
+              <input type="text" id="firstName" [class.is-danger]="isInvalid('firstName')" class="input" placeholder="{{ 'Users.Form.FirstName' | translate }}" formControlName="firstName">
+            </div>
+          </div>
+          <div class="field">
+            <label class="label" for="lastName" translate>Users.Form.LastName</label>
+            <div class="control">
+              <input type="text" id="lastName" [class.is-danger]="isInvalid('lastName')" class="input" placeholder="{{ 'Users.Form.LastName' | translate }}" formControlName="lastName">
+            </div>
+          </div>
+          <div class="field">
+            <label class="label" for="role" translate>Users.Form.Role</label>
+            <div class="control">
+              <div class="select is-fullwidth" [class.is-danger]="isInvalid('role')">
+                <select id="role" formControlName="role">
+                  <option *ngFor="let role of roles$" [value]="role.value">{{ role.name }}</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column is-half">
+          <div class="field">
+            <label class="label required" for="email" translate>Users.Form.Email</label>
+            <div class="control">
+              <input type="text" id="email" [class.is-danger]="isInvalid('email')" class="input" placeholder="{{ 'Users.Form.Email' | translate }}" formControlName="email">
+            </div>
+          </div>
+          <div class="field">
+            <label class="label required" for="userName" translate>Users.Form.Username</label>
+            <div class="control">
+              <input type="text" id="userName" [class.is-danger]="isInvalid('userName')" class="input" placeholder="{{ 'Users.Form.Username' | translate }}" formControlName="userName">
+            </div>
+          </div>
+          <div class="field">
+            <label class="label required" for="password" translate>Users.Form.Password</label>
+            <div class="control">
+              <input type="password" id="password" [class.is-danger]="isInvalid('password')" class="input" placeholder="{{ 'Users.Form.Password' | translate }}" formControlName="password">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-12">
+          <div class="field is-grouped">
+            <div class="control">
+              <button class="button is-text" (click)="reset()" [disabled]="isSubmit" translate>Users.Form.Reset</button>
+            </div>
+            <div class="control">
+              <button class="button is-app-submit" (click)="submit()" [disabled]="isSubmit" translate>Users.Form.Save</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</section>

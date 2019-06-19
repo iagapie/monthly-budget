@@ -1,0 +1,55 @@
+<section class="section" *ngIf="projects$ && projects$.length">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds has-text-centered-mobile">
+        <h1 class="header-title" translate>Projects.ListOfProjects</h1>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section" *ngIf="projects$ && projects$.length">
+  <div class="container">
+    <div class="columns is-multiline">
+      <div class="column is-4" *ngFor="let project of projects$">
+        <div class="box">
+          <h2 class="title">
+            <a routerLink="/projects/{{ project.id }}/summary" title="{{ 'Projects.ViewName' | translate:{name: project.name} }}">{{ project.name }}</a>
+          </h2>
+          <nav class="level is-mobile">
+            <div class="level-left">
+              <a class="level-item" routerLink="/projects/{{ project.id }}/summary" title="{{ 'Projects.ViewName' | translate:{name: project.name} }}">
+                <span class="tag is-link is-normal">#{{ project.id }}</span>
+              </a>
+              <div class="level-item">
+                <span class="tag">{{ project.currency }}</span>
+              </div>
+              <div class="level-item is-hidden-tablet-only">
+                <span class="tag">{{ project.createdAt | date:'mediumDate' }}</span>
+              </div>
+            </div>
+            <div class="level-right">
+              <button class="button level-item" title="{{ 'Projects.EditName' | translate:{name: project.name} }}" (click)="openModal(project)">
+                <span class="icon is-small">
+                  <i class="fas fa-pencil-alt"></i>
+                </span>
+              </button>
+              <button class="button level-item" title="{{ 'Projects.RemoveName' | translate:{name: project.name} }}" (click)="remove(project.id)">
+                <span class="icon is-small">
+                  <i class="fas fa-trash-alt"></i>
+                </span>
+              </button>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container no-projects" *ngIf="!projects$ || !projects$.length">
+  <a href="#" title="New Project" (click)="$event.preventDefault(); openModal(undefined)">
+    <span class="icon">
+      <i class="fas fa-plus"></i>
+    </span>
+  </a>
+</div>
+

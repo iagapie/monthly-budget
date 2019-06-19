@@ -1,0 +1,25 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+.table {
+  thead {
+    tr {
+      th {
+        border: 0;
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        border-right: .25em #fff solid;
+        border-bottom: 0;
+
+        &:nth-child(4) {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

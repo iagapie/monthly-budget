@@ -1,0 +1,38 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+td {
+  text-align: right!important;
+  border: 0;
+
+  input {
+    text-align: right;
+  }
+}
+
+td:first-child {
+  padding: .25em .65em;
+  min-width: 0;
+}
+
+td:nth-child(2) {
+  font-weight: $weight-semibold;
+  text-align: left!important;
+  width: 100%;
+
+  input {
+    text-align: left;
+  }
+}
+
+td:nth-child(1),
+td:nth-child(2),
+td:nth-child(3) {
+  background: $app-background-row-color;
+  border-right: .1em solid #fff;
+  border-bottom: .1em solid #fff;
+}
+
+td:last-child {
+  color: $app-gray-color!important;
+}

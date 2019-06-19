@@ -1,0 +1,32 @@
+<td (dblclick)="edit = true">
+  <span *ngIf="!edit">{{ movementItem.date | date:'shortDate' }}</span>
+  <input *ngIf="edit" [formControl]="dateControl" [class.is-danger]="dateControl.invalid && dateControl.touched" name="date" class="input" type="text" placeholder="{{ dateFormat }}">
+</td>
+<td (dblclick)="edit = true">
+  <app-currency *ngIf="!edit" [code]="project.currency" [amount]="movementItem.amount"></app-currency>
+  <input *ngIf="edit" [formControl]="amountControl" [class.is-danger]="amountControl.invalid && amountControl.touched" name="amount" class="input" type="text" placeholder="{{ 'Projects.Transactions.Placeholder.Amount' | translate }}">
+</td>
+<td (dblclick)="edit = true">
+  <span *ngIf="!edit">{{ movementName }}</span>
+  <div class="select" *ngIf="edit" [class.is-danger]="categoryControl.invalid && categoryControl.touched">
+    <select [formControl]="categoryControl" name="category">
+      <option [value]="category.id" *ngFor="let category of categories">{{ category.name }}</option>
+    </select>
+  </div>
+</td>
+<td (dblclick)="edit = true">
+  <span *ngIf="!edit">{{ movementItem.description }}</span>
+  <input *ngIf="edit" [formControl]="descriptionControl" [class.is-danger]="descriptionControl.invalid && descriptionControl.touched" name="description" class="input" type="text" placeholder="{{ 'Projects.Transactions.Placeholder.Description' | translate }}">
+</td>
+<td>
+  <button *ngIf="!edit" class="button is-small" (click)="remove()">
+    <span class="icon">
+      <i class="fas fa-trash"></i>
+    </span>
+  </button>
+  <button *ngIf="edit" class="button is-small" (click)="update()">
+    <span class="icon">
+      <i class="fas fa-save"></i>
+    </span>
+  </button>
+</td>

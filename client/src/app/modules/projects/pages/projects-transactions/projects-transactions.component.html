@@ -1,0 +1,23 @@
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds has-text-centered-mobile">
+        <h1 class="header-title">{{ project$.name }}</h1>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-half">
+        <app-project-transactions-table [categories]="expensesCategory$" [movementItems]="expensesItems$" [project]="project$" [title]="'Projects.Transactions.Expenses'"></app-project-transactions-table>
+      </div>
+
+      <div class="column is-half">
+        <app-project-transactions-table [categories]="incomeCategory$" [movementItems]="incomeItems$" [project]="project$" [title]="'Projects.Transactions.Income'"></app-project-transactions-table>
+      </div>
+    </div>
+  </div>
+</section>
+<app-project-bottom-nav [project]="project$"></app-project-bottom-nav>

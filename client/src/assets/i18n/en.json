@@ -1,0 +1,118 @@
+{
+  "APP NAME": "Finance",
+  "Back to top": "Back to top",
+  "Title": {
+    "Login": "Login",
+    "Profile": "Profile",
+    "NotFound": "Not Found",
+    "Projects": "Projects",
+    "SummaryProject": "Summary Project",
+    "TransactionsProject": "Transactions Project",
+    "Summary": "Summary",
+    "Transactions": "Transactions",
+    "Users": "Users",
+    "CreateUser": "Create User",
+    "UpdateUser": "Update User"
+  },
+  "DeleteModal": {
+    "Message": "Are you sure that you want to permanently delete this item?",
+    "Cancel": "Cancel",
+    "Delete": "Delete"
+  },
+  "MainMenu": {
+    "Projects": "Projects",
+    "NewProject": "New Project",
+    "Profile": "Profile",
+    "Users": "Users",
+    "NewUser": "New User",
+    "Logout": "Logout"
+  },
+  "Auth": {
+    "Finance": "Finance",
+    "Username": "Username",
+    "Password": "Password",
+    "Login": "Login"
+  },
+  "Projects": {
+    "Form": {
+      "CreateProject": "Create project",
+      "UpdateProject": "Update project #{{id}}",
+      "Name": "Name",
+      "Currency": "Currency",
+      "Cancel": "Cancel",
+      "Save": "Save"
+    },
+    "ListOfProjects": "List of projects",
+    "ViewName": "View {{name}}",
+    "EditName": "Edit {{name}}",
+    "RemoveName": "Remove {{name}}",
+    "Saved": "Saved",
+    "BottomNav": {
+      "Summary": "Summary",
+      "Transactions": "Transactions"
+    },
+    "Summary": {
+      "Expenses": "Expenses",
+      "Income": "Income",
+      "Planned": "Planned",
+      "Actual": "Actual",
+      "Total": "Total",
+      "Diff": "Diff.",
+      "Add": "add",
+      "Reset": "reset",
+      "Placeholder": {
+        "Name": "name",
+        "Planned": "planned"
+      }
+    },
+    "Transactions": {
+      "Expenses": "Expenses",
+      "Income": "Income",
+      "Date": "Date",
+      "Amount": "Amount",
+      "Category": "Category",
+      "Description": "Description",
+      "Add": "add",
+      "Reset": "reset",
+      "Placeholder": {
+        "Amount": "amount",
+        "Description": "description"
+      }
+    }
+  },
+  "Users": {
+    "ListOfUsers": "List of users",
+    "ChangeProfile": "Change Profile",
+    "ChangePassword": "Change Password",
+    "ChangeProfile#": "Change Profile #{{id}}",
+    "ChangePassword#": "Change Password #{{id}}",
+    "Username": "Username",
+    "Email": "Email",
+    "Role": "Role",
+    "FirstName": "First name",
+    "LastName": "Last name",
+    "CreatedAt": "Created at",
+    "CreateUser": "Create user",
+    "Form": {
+      "FirstName": "First Name",
+      "LastName": "Last Name",
+      "Role": "Role",
+      "Email": "Email",
+      "Username": "Username",
+      "Password": "Password",
+      "Reset": "Reset",
+      "Save": "Save",
+      "CurrentPassword": "Current Password",
+      "NewPassword": "New Password",
+      "ChangePasswordButton": "Change password",
+      "ChangeProfile": {
+        "Message": "Profile was changed successfully.",
+        "Error": "Unknown error."
+      },
+      "ChangePassword": {
+        "Message": "Password was changed successfully.",
+        "Error": "Unknown error."
+      }
+    }
+  }
+}

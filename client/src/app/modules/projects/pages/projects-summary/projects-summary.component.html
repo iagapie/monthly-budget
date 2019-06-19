@@ -1,0 +1,29 @@
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds has-text-centered-mobile">
+        <h1 class="header-title">{{ project$.name }}</h1>
+      </div>
+      <div class="column is-one-third has-text-centered">
+        <span class="header-saved-price">
+          <app-currency [code]="project$.currency" [amount]="saved"></app-currency>
+        </span>
+        <span class="header-saved-label" translate>Projects.Saved</span>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-half">
+        <app-project-summary-table (actualEvent)="onOutActual($event)" [project]="project$" [movements]="expenses$" [title]="'Projects.Summary.Expenses'" [directionId]="-1"></app-project-summary-table>
+      </div>
+
+      <div class="column is-half">
+        <app-project-summary-table (actualEvent)="onInActual($event)" [project]="project$" [movements]="income$" [title]="'Projects.Summary.Income'" [directionId]="1"></app-project-summary-table>
+      </div>
+    </div>
+  </div>
+</section>
+<app-project-bottom-nav [project]="project$" *ngIf="expenses$.length || income$.length"></app-project-bottom-nav>

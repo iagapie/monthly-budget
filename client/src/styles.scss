@@ -1,0 +1,202 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bulma/sass/utilities/_all";
+@import "./variables";
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.header-title {
+  font-size: $size-3;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+}
+
+.header-title {
+  color: $app-orange-color;
+}
+
+.section {
+  &:first-child {
+    padding-bottom: 0;
+  }
+}
+
+.modal-card-foot {
+  justify-content: space-between;
+}
+
+.tag.is-app-orange {
+  background-color: $app-orange-color;
+  color: #fff;
+}
+
+.button.is-app-submit {
+  background-color: $app-orange-color;
+  border-color: transparent;
+  color: #fff;
+
+  &:hover {
+    background-color: transparent;
+    border-color: $app-orange-color;
+    color: $app-orange-color;
+  }
+}
+
+.button.is-app-submit.is-outlined {
+  background-color: transparent;
+  border-color: $app-orange-color;
+  color: $app-orange-color;
+
+  &:hover {
+    background-color: $app-orange-color;
+    border-color: transparent;
+    color: #fff;
+  }
+}
+
+.button.is-app-danger {
+  background-color: $app-negative-color;
+  border-color: transparent;
+  color: #fff;
+
+  &:hover {
+    background-color: transparent;
+    border-color: $app-negative-color;
+    color: $app-negative-color;
+  }
+}
+
+.button.is-app-danger.is-outlined {
+  background-color: transparent;
+  border-color: $app-negative-color;
+  color: $app-negative-color;
+
+  &:hover {
+    background-color: $app-negative-color;
+    border-color: transparent;
+    color: #fff;
+  }
+}
+
+.label.required {
+  &::after {
+    content: ' *';
+    color: $app-negative-color;
+  }
+}
+
+.table-title {
+  font-size: $size-4;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+  color: $app-orange-color;
+  border-bottom: 1px solid #222;
+  margin-top: 2rem;
+}
+
+.table {
+  thead {
+    tr {
+      th {
+        font-size: $size-7;
+        font-weight: $weight-semibold;
+        color: #222;
+      }
+    }
+  }
+
+  tfoot {
+    tr {
+      td {
+        border: 0;
+        text-align: center;
+
+        .buttons {
+          margin-bottom: 0;
+
+          .button {
+            border: 0;
+
+            &:nth-child(2) {
+              color: $link;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        font-size: $size-7!important;
+        vertical-align: middle;
+        color: $app-gray-dark-color!important;
+        min-width: 7em;
+
+        input,
+        select {
+          font-size: .65rem;
+          border-radius: 0;
+          box-shadow: none;
+        }
+
+        select {
+          height: 2em;
+          padding: 0 2em 0 0;
+          max-width: 10em;
+          min-width: 6.5em;
+        }
+
+        input {
+          height: 2em;
+          padding: calc(.625em - 1px) calc(.625em - 1px);
+        }
+
+        .select {
+          height: 2em;
+          padding: .1em 0 0;
+          margin: 0;
+
+          &::after {
+            height: .4em!important;
+            width: .4em!important;
+            border-width: .15em!important;
+            border-radius: 0!important;
+            margin-top: -.3em!important;
+            margin-right: -.3em!important;
+          }
+        }
+
+        .button {
+          border-radius: 0;
+          color: $app-gray-color;
+          width: 2em;
+          height: 2em;
+        }
+
+        &.p {
+          color: $app-positive-color!important;
+        }
+
+        &.n {
+          color: $app-negative-color!important;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}

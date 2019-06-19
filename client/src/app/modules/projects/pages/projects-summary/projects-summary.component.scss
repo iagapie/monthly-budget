@@ -1,0 +1,231 @@
+@import "~bulma/sass/utilities/_all";
+@import "../../../../../variables";
+
+:host {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.header-saved-price {
+  font-size: $size-3;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+}
+
+.header-saved-price,
+.header-saved-label {
+  color: $app-gray-color;
+  display: block;
+}
+
+.header-saved-label {
+  font-size: $size-5;
+  font-weight: $weight-medium;
+  font-style: italic;
+  line-height: 1.25;
+  margin-top: -.25rem;
+}
+
+.total-title {
+  font-size: $size-5;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+  color: $app-blue-dark-color;
+  margin-bottom: 1em;
+}
+
+.total-stats {
+  .column {
+    align-self: center;
+    padding-top: 0;
+    padding-bottom: .25rem;
+  }
+}
+
+.total-label,
+.total-price {
+  font-size: $size-6;
+  font-weight: $weight-semibold;
+  line-height: 1.125;
+  color: $app-gray-color;
+}
+
+.total-price {
+  text-align: right;
+}
+
+.total-progress {
+  padding-left: 0;
+
+  progress {
+    &::-webkit-progress-bar {
+      background: none;
+    }
+
+    background: none;
+    height: 1.25rem;
+    border-radius: 0;
+  }
+
+  .total-progress-planned {
+    &::-webkit-progress-value {
+      background-color: $app-gray-light-color
+    }
+
+    &::-moz-progress-bar {
+      background-color: $app-gray-light-color
+    }
+
+    &::-ms-fill {
+      background-color: $app-gray-light-color
+    }
+  }
+
+  .total-progress-actual {
+    &::-webkit-progress-value {
+      background-color: $app-blue-dark-color
+    }
+
+    &::-moz-progress-bar {
+      background-color: $app-blue-dark-color
+    }
+
+    &::-ms-fill {
+      background-color: $app-blue-dark-color
+    }
+  }
+}
+
+.table-title {
+  font-size: $size-4;
+  font-weight: $weight-bold;
+  line-height: 1.125;
+  color: $app-orange-color;
+  border-bottom: 1px solid #222;
+  margin-top: 2rem;
+}
+
+.table {
+  thead {
+    tr {
+      th {
+        font-size: $size-7;
+        font-weight: $weight-semibold;
+        text-align: right;
+        color: #222;
+        border-bottom: 1px solid #222;
+        vertical-align: bottom;
+
+        span {
+          font-weight: $weight-medium;
+          font-style: italic;
+          color: $app-gray-color;
+          display: block;
+        }
+
+        &:first-child {
+          width: 40%;
+          text-align: left;
+        }
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        font-size: $size-7;
+        text-align: right;
+        color: $app-gray-dark-color;
+        border: 0;
+
+        &:first-child {
+          font-weight: $weight-semibold;
+          text-align: left;
+        }
+
+        &:nth-child(1),
+        &:nth-child(2) {
+          background: $app-background-row-color;
+          border-right: 0.1em solid #fff;
+          border-bottom: 0.1em solid #fff;
+        }
+
+        &:last-child {
+          color: $app-gray-color;
+        }
+
+        &.p {
+          color: $app-positive-color!important;
+        }
+
+        &.n {
+          color: $app-negative-color!important;
+        }
+
+        &.n:before {
+          content: '-';
+          color: $app-negative-color!important;;
+        }
+
+        input {
+          font-size: .65rem;
+          height: 2em;
+          padding: calc(0.625em - 1px) calc(0.625em - 1px);
+          border-radius: 0;
+          text-align: right;
+        }
+
+        &:first-child {
+          input {
+            text-align: left;
+          }
+        }
+
+        .field {
+          .control {
+            font-size: inherit;
+            &:first-child {
+              flex: 1 0 0;
+            }
+
+            .button {
+              border-radius: 0;
+              height: 1.3em;
+              width: 1.3em;
+              padding: 0;
+              color: $app-gray-color;
+
+              .icon {
+                width: 1em;
+                height: 1em;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  tfoot {
+    tr {
+      td {
+        border: 0;
+        text-align: center;
+
+        .buttons {
+          margin-bottom: 0;
+
+          .button {
+            border: 0;
+
+            &:nth-child(2) {
+              color: $link;
+            }
+          }
+        }
+      }
+    }
+  }
+}

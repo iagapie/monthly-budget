@@ -1,0 +1,60 @@
+<section class="section" *ngIf="users$ && users$.length">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds has-text-centered-mobile">
+        <h1 class="header-title" translate>Users.ListOfUsers</h1>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section" *ngIf="users$ && users$.length">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-12">
+        <table class="table is-fullwidth is-hoverable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th translate>Users.Username</th>
+              <th translate>Users.Email</th>
+              <th translate>Users.Role</th>
+              <th translate>Users.FirstName</th>
+              <th translate>Users.LastName</th>
+              <th translate>Users.CreatedAt</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let user of users$">
+              <td>
+                <a [routerLink]="[user.id, 'update']">{{ user.id }}</a>
+              </td>
+              <td>
+                <a [routerLink]="[user.id, 'update']">{{ user.userName }}</a>
+              </td>
+              <td>
+                <a [routerLink]="[user.id, 'update']">{{ user.email }}</a>
+              </td>
+              <td>
+                <span class="tag" [class.is-app-orange]="user.role === 'admin'">
+                  {{ user.role }}
+                </span>
+              </td>
+              <td>{{ user.firstName }}</td>
+              <td>{{ user.lastName }}</td>
+              <td>
+                <span class="tag">{{ user.createdAt | date:'mediumDate' }}</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container no-users" *ngIf="!users$ || !users$.length">
+  <a title="New User" routerLink="/users/create">
+    <span class="icon">
+      <i class="fas fa-user-plus"></i>
+    </span>
+  </a>
+</div>

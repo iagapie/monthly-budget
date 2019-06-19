@@ -1,0 +1,27 @@
+@import "~bulma/sass/utilities/_all";
+
+.navbar-brand {
+  span {
+    margin-left: .8em;
+    font-size: $size-5;
+    font-weight: $weight-semibold;
+  }
+
+  img {
+    height: 1.5rem;
+  }
+}
+
+.navbar-menu {
+  .navbar-item {
+    span {
+      vertical-align: middle;
+    }
+
+    .icon {
+      margin-right: .1875em;
+      width: 1.5em;
+      height: 1.5em;
+    }
+  }
+}

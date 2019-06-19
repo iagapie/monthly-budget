@@ -1,0 +1,25 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex-grow: 2;
+}
+
+@media screen and (max-width: 1023px) {
+  .navbar {
+    padding: 0 1.5rem;
+
+    .navbar-menu {
+      display: flex;
+      box-shadow: none;
+
+      .navbar-item {
+        background-color: transparent;
+
+        &:hover {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+}

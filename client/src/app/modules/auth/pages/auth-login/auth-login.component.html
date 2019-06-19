@@ -1,0 +1,39 @@
+<div class="columns is-vcentered">
+  <div class="column is-4">
+    <section class="section">
+      <div class="has-text-centered">
+        <img class="login-logo" [src]="'assets/finance.svg'" alt="{{ 'Auth.Finance' | translate }}">
+      </div>
+      <form [formGroup]="form" (ngSubmit)="submit()">
+        <div class="field">
+          <label class="label" for="auth-login-form-username" translate>Auth.Username</label>
+          <div class="control has-icons-right">
+            <input id="auth-login-form-username" [class.is-danger]="isInvalid('username')" class="input" type="text" placeholder="{{ 'Auth.Username' | translate }}" formControlName="username" (input)="errorMessage = null">
+            <span class="icon is-small is-right">
+              <i class="fa fa-user"></i>
+            </span>
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label" for="auth-login-form-password" translate>Auth.Password</label>
+          <div class="control has-icons-right">
+            <input id="auth-login-form-password" [class.is-danger]="isInvalid('password')" class="input" type="password" placeholder="{{ 'Auth.Password' | translate }}" formControlName="password" (input)="errorMessage = null">
+            <span class="icon is-small is-right">
+              <i class="fa fa-key"></i>
+            </span>
+          </div>
+        </div>
+
+        <div *ngIf="errorMessage" class="field">
+          <p class="error">{{ errorMessage | translate }}</p>
+        </div>
+
+        <div class="has-text-centered">
+          <button type="submit" class="button is-vcentered is-app-submit is-outlined" [disabled]="isSubmit" translate>Auth.Login</button>
+        </div>
+      </form>
+    </section>
+  </div>
+  <div id="particles-js" class="interactive-bg column is-8"></div>
+</div>
