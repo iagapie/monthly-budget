@@ -1,16 +1,20 @@
+# Monthly Budget Planner
 
 ## Prerequisites
-1. [Docker](https://www.docker.com/)
 
-## Steps
-1. `git clone https://github.com/iagapie/monthly-budget.git`
+1. [Docker](https://docs.docker.com/install/)
+2. [Compose](https://docs.docker.com/compose/install/)
 
-2. `cd monthly-budget`
+## Installation
 
-3. `docker-compose up -d`
+```bash
+git clone https://github.com/iagapie/monthly-budget.git
+cd monthly-budget
+docker-compose up -d
+```
 
-4. Navigate to [https://api.fin.localhost](https://api.fin.localhost) and accept the certificate
+Navigate to [https://api.fin.localhost](https://api.fin.localhost) and accept the certificate
 
-5. Navigate to [https://fin.localhost](https://fin.localhost)
+Navigate to [https://fin.localhost](https://fin.localhost)
 	- Username: `admin`
 	- Password: `Admin123`
